@@ -14,5 +14,6 @@ public class StatisticService {
             if (current_max < income)
                 current_max = income;
         return current_max;
+
     }
 }
